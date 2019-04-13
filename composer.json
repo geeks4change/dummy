@@ -1,4 +1,10 @@
 {
     "name": "geeks4change/dummy",
-    "require": {}
+    "require": {},
+    "authors": [
+        {
+            "name": "geek-andi",
+            "email": "serv@posteo.de",
+            "role": "Maintainer"
+        },
 }
